@@ -1,1 +1,1 @@
-# ai_ragsys
+# Проект Atlas
