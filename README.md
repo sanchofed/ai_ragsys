@@ -2,7 +2,7 @@
 
 # Проект Atlas
 
-> **Rely on us.**
+> **Rely on us**
 
 [![Status](https://img.shields.io/badge/Status-Idea-orange.svg)]()
 [![Domain](https://img.shields.io/badge/Domain-Construction%20Tech-blue.svg)]()
