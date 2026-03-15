@@ -16,5 +16,5 @@
 
 | Участник | Роль в команде | Контакты |
 | :--- | :--- | :--- |
-| **Шамигов Федор** | **LLM Engineer** <br> • Fine-tuning & Prompting <br> • Контроль токеномики <br> • Рационализация ресурсов | Telegram: [@eleisonkyyrie](https://t.me/eleisonkyyrie) |
 | **Белоконь Александр** | **System Architect** <br> • Архитектура решения <br> • Настройка пайплайна <br> • Graph RAG на основе LLM | Telegram: [@WhiteHorz](https://t.me/WhiteHorz) |
+| **Шамигов Федор** | **LLM Engineer** <br> • Fine-tuning & Prompting <br> • Контроль токеномики <br> • Рационализация ресурсов | Telegram: [@eleisonkyyrie](https://t.me/eleisonkyyrie) |
